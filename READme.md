@@ -1,4 +1,4 @@
-Asteroidz - one or two player game
+Asteroidz - single player game
 
 Originally written for Rice University/Coursera class "Interactive Python Programming"
 
